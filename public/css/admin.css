@@ -1,0 +1,86 @@
+#all {
+    font-family: 'DFKai-sb',sans-serif;
+    padding: 40px;
+}
+#header {
+    height:75%;
+    padding: 20px;
+    background: #6c757d;
+    font-size: 30px;
+}
+.ul-head{
+    text-align: right;
+}
+#leave{
+    width:70px;
+    height:60px;
+    float:left;
+}
+.li-besides{
+    font-size:38px;
+    list-style-type:none;
+    padding: 10px;
+}
+.li-body{
+    font-size:40px;
+    padding: 50px;
+    text-align: right;
+    list-style-type:none;
+    display:inline;
+}
+#besides{
+    height:730px;
+    width: 20%;
+    background: #f7a836;
+    font-size: 25px;
+    float:left;
+}
+#center {
+    margin-top:5%;
+    margin-right:10%;
+    float:right;
+    height: 60%;
+    width: 55%;
+    background: #f66d9b;
+    font-size: 30px;
+    padding:20px;
+}
+#two{
+    padding:30px;
+}
+#three{
+    padding:30px;
+}
+#four{
+    padding:30px;
+}
+#five{
+    padding:30px;
+}
+#one{
+    padding:30px;
+}
+#product{
+     height:50px;
+     width: 500px;
+
+ }
+#name{
+    height:50px;
+    width: 500px;
+}
+#up{
+    height:50px;
+    width: 500px;
+}
+#down{
+    height:50px;
+    width: 500px;
+}
+#remark{
+    height:50px;
+    width: 500px;
+}
+
+
+

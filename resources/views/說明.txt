@@ -1,0 +1,2 @@
+public放入public放入資料夾
+admin 裡面的web可以照裡面的增加
