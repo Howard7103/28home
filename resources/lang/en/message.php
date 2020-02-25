@@ -34,11 +34,24 @@ return [
     'customer_bank_account' => 'Customer_bank_account',
     'customer_self_photo' => 'Customer_self_photo',
 
+    'min-8' => 'Not less than: 8',
+    'enter-password' => 'Enter the password again',
+
+
+    'vendor-name' => 'Enter-vendor-name',
+    'vendor-email' => 'xxx@xxx.com',
+    'vendor-address' => 'xx city xx district',
+    'vendor-telephone' => '886-',
+    'vendor-self_photo' => '個人圖片',
+    'vendor-shop_photo' => '店家圖片',
+    'vendor-introduce_content' => '介紹詞',
+    'vendor-product_category' => '店家分類',
 
 
 
 
-        'attributes' => [],
+
+    'attributes' => [],
 
 
 ];

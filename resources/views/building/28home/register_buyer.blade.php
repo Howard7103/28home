@@ -24,32 +24,32 @@
 
     <div>
         {{__('message.customer_email')}}
-        <input type="email" name="customer_email" >
+        <input type="email" name="customer_email" placeholder="" >
     </div><br>
 
     <div>
         {{__('message.customer_birthday')}}
-        <input type="text" name="customer_birthday" >
+        <input type="text" name="customer_birthday" placeholder="">
     </div><br>
 
     <div>
         {{__('message.customer_address')}}
-        <input type="tel" name="customer_address" >
+        <input type="tel" name="customer_address" placeholder="">
     </div><br>
 
     <div>
         {{__('message.customer_telephone')}}
-        <input type="text" name="customer_telephone">
+        <input type="text" name="customer_telephone" placeholder="">
     </div><br>
 
     <div>
         {{__('message.customer_bank_account')}}
-        <input type="text" name="customer_bank_account">
+        <input type="text" name="customer_bank_account" placeholder="">
     </div><br>
 
     <div>
         {{__('message.customer_self_photo')}}
-        <input type="text" name="customer_self_photo">
+        <input type="text" name="customer_self_photo" placeholder="">
     </div><br>
 
     <div>

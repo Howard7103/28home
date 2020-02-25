@@ -8,7 +8,7 @@
 <link rel="shortcut icon" href="{{asset('favicon.ico')}}">
 
 
-<link rel="stylesheet" href="{{asset('vendors/bootstrap/dist/css/bootstrap.min.css')}}">
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 <link rel="stylesheet" href="{{asset('vendors/font-awesome/css/font-awesome.min.css')}}">
 <link rel="stylesheet" href="{{asset('vendors/themify-icons/css/themify-icons.css')}}">
 <link rel="stylesheet" href="{{asset('vendors/flag-icon-css/css/flag-icon.min.css')}}">

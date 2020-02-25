@@ -145,6 +145,9 @@ return [
     |
     */
 
-    'attributes' => [],
+    'attributes' => [
+        'user_account' => 'user account',
+        'vendor_name' => 'vendor name',
+    ],
 
 ];

@@ -143,7 +143,7 @@ class RegisterController extends Controller
             'vendor_name' => 'required|min:1|max:15|unique:vendor',
             'vendor_email' => 'required|max:100|',
             'vendor_address' => 'required|max:100|',
-            'vendor_telephone' => 'required|max:15|',
+            'vendor_telephone' => 'required|numeric|max:15|',
             'vendor_bank_account' => 'required|max:19|',
             'vendor_introduce_content' => 'required|min:1|max:500',
             'vendor_product_category' => 'required|max:10',

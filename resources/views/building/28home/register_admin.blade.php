@@ -19,47 +19,47 @@
 
     <div>
         賣家店名:
-        <input type="text" name="vendor_name" >
+        <input type="text" name="vendor_name" placeholder="">
     </div><br>
 
     <div>
         賣家信箱:
-        <input type="email" name="vendor_email" >
+        <input type="email" name="vendor_email" placeholder="">
     </div><br>
 
     <div>
         賣家地址:
-        <input type="text" name="vendor_address" >
+        <input type="text" name="vendor_address" placeholder="" >
     </div><br>
 
     <div>
         賣家電話:
-        <input type="tel" name="vendor_telephone" >
+        <input type="tel" name="vendor_telephone" placeholder="">
     </div><br>
 
     <div>
         賣家銀行帳戶:
-        <input type="text" name="vendor_bank_account">
+        <input type="text" name="vendor_bank_account" placeholder="">
     </div><br>
 
     <div>
         賣家照片檔案位址:
-        <input type="text" name="vendor_self_photo">
+        <input type="text" name="vendor_self_photo" placeholder="">
     </div><br>
 
     <div>
         賣家商店介紹照片:
-        <input type="text" name="vendor_shop_photo">
+        <input type="text" name="vendor_shop_photo" placeholder="">
     </div><br>
 
     <div>
         賣家介紹詞:
-        <input type="text" name="vendor_introduce_content" >
+        <input type="text" name="vendor_introduce_content" placeholder="" >
     </div><br>
 
     <div>
         賣家自家商品分類:
-        <input type="text" name="vendor_product_category">
+        <input type="text" name="vendor_product_category" placeholder="">
     </div><br>
 
     <div>
